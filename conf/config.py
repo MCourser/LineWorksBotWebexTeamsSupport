@@ -19,28 +19,27 @@ limitations under the License.
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'en'
 
 # TimeZone
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "wo.08327@works-83443"
-DOMAIN_ID = 10175504
+ADMIN_ACCOUNT = "machao@line-works-webex-teams"
+DOMAIN_ID = 10311818
 
 # api
-API_ID = "jp1hipIEBeDUo"
-SERVER_CONSUMER_KEY = "uLKJLanbaiLODRd8M0s1"
-
-SERVER_ID = "24e72399c0214acb9eac5fc6d357f52b"
-SECRET_KEY_NAME = "private_20200326171020.key"
+API_ID = "jp1oyHomDVqrd"
+SERVER_CONSUMER_KEY = "wkeHoCfelinyd8JmXQpf"
+SERVER_ID = "2c2a9a096348496e95d77c68087319f9"
+SECRET_KEY_NAME = "private_20201027154656.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://app-bot-line.herokuapp.com/"
+LOCAL_ADDRESS = "https://line-works-bot-webex-teams.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-3-211-48-92.compute-1.amazonaws.com"
-DB_NAME = "d8rcdqsb9ig9vs"
-DB_USER = "cooagdvsvfshlc"
+DB_HOST = "ec2-3-233-236-188.compute-1.amazonaws.com"
+DB_NAME = "d48p9v1fv1e051"
+DB_USER = "dryyatopxqkaps"
 DB_PORT = "5432"
-DB_PASSWORD = "93e000dbfd1a6408da520845a0ca52f927e37456b747d0ea150af6b4724fce56"
+DB_PASSWORD = "58d65da87230ca24de2a060c6553d4c1c00e44b7ec787626c434a37eeee3b048"
